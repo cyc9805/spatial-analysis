@@ -1,1 +1,2 @@
-# spatial_analysis_with_R
+# spatial analysis with R
+analysis of spatial data with R 
